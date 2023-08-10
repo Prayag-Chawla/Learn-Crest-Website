@@ -1,0 +1,416 @@
+body
+{
+    font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
+   
+}
+
+#title
+{
+    background-color: #fff;
+    color: #fff;  /*changes all text color in id "title" to white*/
+   
+}
+
+.blog1
+{
+    float: left;
+}
+
+
+
+
+
+
+
+h2 
+{
+    text-align: center;
+}
+
+.tagline
+{
+    padding-top: 6.25rem;
+}
+
+
+h1,h3
+{
+
+    font-family: 'Rubik Mono One', sans-serif;
+    
+}
+
+ h1  /* This is for our heading in the testimonials section  */
+{
+    /* all these features are for the same */
+   
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.5;
+  
+
+}
+.text
+{
+    background-color: #ecb365;
+}
+
+
+h3
+{
+    
+    font-weight: bold;
+}
+
+.container-fluid
+{
+    
+    padding-left: 0px;
+    padding-right: 0px;
+    
+ 
+}
+
+
+
+.bg
+{
+
+    width: 10%;
+
+}
+.heading
+{
+    padding-top: 15%;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-family: 'Solitreo', cursive;
+    font-size: 3.5rem;
+    line-height: 1.5;
+   
+
+}
+.logo
+{
+    height: 10.5rem;
+    width: 10.5rem;
+    position: relative;
+    margin-right : 24rem;
+}
+
+
+
+.imgtag
+{
+  margin:auto  100px auto;
+    
+}
+
+/* Navigation-Bar */
+.upper
+{
+    height: 10%;
+}
+.navbar
+{
+   
+   background-color: #000;
+   height: 100px;
+   margin-left: 0;
+  margin-right: 0;
+
+  size: 1%;
+    
+
+}
+.row
+{
+    padding-top: 50px;
+}
+.gif
+{
+    width: 30%;
+    height: 30%;
+}
+
+.navbar-brand
+{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item
+{
+    padding:  8px;
+}
+
+.nav-link
+{
+    font-size: 1.1rem;
+    font-family: 'Montserrat-Light'; 
+   
+}
+
+
+/* Download-Button */
+
+
+
+
+/* Title-image */
+
+
+ 
+
+
+
+
+/* Features-Section */
+
+#features
+{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 2;
+    
+    
+}
+
+.fhead-p
+{
+    color: #8f8f8f;
+    
+}
+
+.features-box
+{
+    text-align: center;
+    padding: 5%;
+
+}
+
+.fhead-icon
+{
+    color: #ef8172;
+    margin-bottom: 1.5rem;
+}
+
+.fhead-icon:hover
+{
+    color:#ff4c68;
+}
+
+/* Testimonial-Section */
+
+#testimonials
+{
+
+    text-align: center;
+    background-color: #472183;
+    color: #fff;
+
+}
+
+.testimonial-image
+{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+.carousel-item
+{
+    
+    margin-top: 0;
+    margin-bottom: 5%;
+       /*Targets to pad only the content bcz of which the prev nd next buttons will not be padded and will stick to sides of page and make it nice to look ! */
+
+}
+.carousel-inner
+{
+    margin-bottom: 100px;
+}
+
+.active
+{
+    margin-top: 0;
+    /* margin-bottom: 5%; */
+    text-align: center;
+    
+}
+
+.heading
+{
+    background-color: #282A3A;
+
+}
+
+
+.skill-row
+{
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Press-section */
+
+#press
+{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 4%;
+
+}
+ 
+.img
+{
+    border-radius: 20px;
+}
+.press-logo
+{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+/* Pricing-Section */
+
+#pricing
+{
+    padding: 6.2rem;
+    text-align: center;
+}
+
+.price-box
+{
+    padding: 3% 2%;
+   
+}
+
+.pricing-head
+{
+    font-weight: bold;
+
+}
+.pricing-p
+{
+    color: gray;
+    font-family: "Montserrat-light",sans-serif;
+    font-style: italic;
+}
+
+
+/* Media-Query BreakPoints */
+
+@media (max-width:1245px)
+{
+
+    #title
+    {
+        text-align: center;
+    }
+
+
+    .title-img
+    {
+        position: static;
+        transform: rotate(0deg);
+    }
+}
+
+
+/* Call-to-Action section  */
+
+#cta
+{
+    color: #fff;
+    background-color:#ff4c68;
+    text-align:center;
+    padding-top:4%;
+
+}
+
+.cta-h3
+{
+    font-family:'Montserrat', sans-serif;
+    font-weight:bold; 
+    font-size:3rem;
+    margin:3% 20% 5%;
+    width:60%;
+    line-height: 1.5;
+    
+}
+
+.cta-btn
+{
+    margin:2% 1% 5%;
+}
+
+
+/* Footer-section */
+
+#footer
+{
+    text-align:center;
+    margin:5% auto 2%;
+    background-color:#282A3A;
+
+}
+
+.footer-p
+{
+    margin-top:0.8rem;
+    color:#fff;
+    font-family:'Montserrat', sans-serif;
+    font-weight:Montserrat-Light;
+
+   
+}
+
+.fi 
+{
+    margin:2.5rem 0.8rem auto;
+    color: #fff;
+
+}
+.fi-span
+{
+    display: block;
+}
+
+.AV 
+{
+    margin:auto 2rem;
+    text-align: center;
+     width: 10%;
+     margin: auto 5% auto;
+}
+
+.Av-h3
+{
+    margin-bottom: 2rem ;
+    font-style: italic;
+    font-family: cursive;
+   
+}
+
+.col-lg-4
+{
+    border-radius: 20px;
+}
+
+
+
+

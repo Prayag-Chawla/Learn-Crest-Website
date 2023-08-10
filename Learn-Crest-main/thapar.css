@@ -1,0 +1,240 @@
+/* Features-Section */
+
+
+body
+{
+    margin: 0px;
+    text-align: center;
+}
+
+/* Navigation-Bar */
+.upper
+{
+    height: 10%;
+}
+.navbar
+{
+   
+   background-color: #000;
+   height: 100px;
+   margin-left: 0;
+  margin-right: 0;
+
+  size: 1%;
+    
+
+}
+.row
+{
+    padding-top: 50px;
+}
+
+
+.collapse
+{
+    color: #ef8172;
+}
+
+.profile
+{
+    width: 14rem;
+}
+
+.navbar-brand
+{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item
+{
+    padding: 0 12px;
+    color: azure;
+}
+
+.nav-link
+{
+    font-size: 1.1rem;
+    font-family: 'Montserrat-Light'; 
+    
+   
+}
+h3
+{
+    text-align: center;
+}
+
+.about
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 6rem;
+    position: relative;
+    bottom: 1.875rem;
+
+}
+
+
+
+.fhead-p
+{
+    color: #8f8f8f;
+    
+}
+
+.features-box
+{
+    
+   
+
+height: 75px;
+
+  
+   
+
+}
+
+.fhead
+{
+   
+}
+.fhead-icon
+{
+    color: #ef8172;
+    margin-bottom: 1.5rem;
+}
+
+.fhead-icon:hover
+{
+    color:#ff4c68;
+}
+
+.logo
+{
+    width: 8%;
+    height: 8%;
+    position: relative;
+    bottom: 6.875rem;
+
+}
+
+
+.row
+{
+    
+
+}
+.font
+{
+    
+}
+
+/* Features-Section */
+
+
+body
+{
+    margin: 0px;
+    text-align: center;
+}
+
+/* Navigation-Bar */
+.upper
+{
+    height: 10%;
+}
+.navbar
+{
+   
+   background-color: #000;
+   height: 100px;
+   margin-left: 0;
+  margin-right: 0;
+
+  size: 1%;
+    
+
+}
+.row
+{
+    padding-top: 50px;
+}
+
+
+.collapse
+{
+    color: #ef8172;
+}
+
+.profile
+{
+    width: 14rem;
+}
+
+.navbar-brand
+{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item
+{
+    padding: 0 12px;
+    color: azure;
+}
+
+.nav-link
+{
+    font-size: 1.1rem;
+    font-family: 'Montserrat-Light'; 
+    
+   
+}
+
+.about
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 6rem;
+    margin-bottom: 3.125rem;
+
+}
+
+
+
+.fhead-p
+{
+    color: #8f8f8f;
+    
+}
+
+.features-box
+{
+text-align: center;
+margin: auto 1.25rem auto;
+
+
+}
+
+.fhead-icon
+{
+    color: #ef8172;
+    margin-bottom: 1.5rem;
+}
+
+.fhead-icon:hover
+{
+    color:#ff4c68;
+}
+
+.logo
+{
+    width: 8%;
+    height: 8%;
+    position: relative;
+    bottom: 6.875rem;
+
+}
+
