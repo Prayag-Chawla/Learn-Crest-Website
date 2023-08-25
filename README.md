@@ -1,6 +1,6 @@
 # Learn-Crest-Website
 
-This is an educational supporting website I amde with my team during a hackathon. It used JS, CSS and HTML with a bit of django as well.
+This is an educational supporting-resource website I madee with my team during a hackathon. It used JS, CSS and HTML with a bit of django as well. It contains inter-university material, blogs, testimonies, articles, recent knowledge about hackathins, pricing structures as well
 
 You can acess it here: https://iosaman503.github.io/HackTu-405-Found/
 
